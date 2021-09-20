@@ -12,7 +12,7 @@
 
 ### `npm i`
 
-Install Install packages
+Install packages
 
 ### `npm start`
 
